@@ -164,3 +164,10 @@ h2 {
 .video {
     margin-bottom: 100px;
 }
+.section_sixth {
+    border-top: 100px;
+    border-bottom: 100px;
+}
+.section_fourth h2 {
+    text-align: start;
+}
